@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Learn More
+
+working example: https://nekflix-77784.web.app/
 
 ## Available Scripts
 
